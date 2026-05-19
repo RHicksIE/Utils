@@ -52,8 +52,6 @@ Start with **exactly one** of these imperative verb keywords followed by a space
 3. Do **not** end the subject line with a period.
 4. Choose the keyword that **most precisely** describes the change — do not use a generic keyword when a more specific one applies.
 5. If multiple concerns are addressed, prefer **splitting into separate commits**; if not possible, use the most dominant change type.
-6. Optionally include a **scope** in parentheses after the keyword (e.g. `Fix(auth) resolve token expiry issue`).
-7. Optionally add a **body** after a blank line to explain *why* the change was made (not *what* — the diff shows that).
 
 ## Step 4: Confirm with the user
 
